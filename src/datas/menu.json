@@ -1,0 +1,12 @@
+{
+    "heading": "Dashboard",
+    "interface": [
+        "Components",
+        "Utilities"
+    ],
+    "ADDONS": [
+        "Pages",
+        "Charts",
+        "Tables"
+    ]
+}

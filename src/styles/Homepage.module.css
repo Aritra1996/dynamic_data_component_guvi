@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.menus {
+    background-color: blue;
+    display: grid;
+    justify-content: flex-start;
+}
+
+.card {
+    border-bottom: 1px solid white;
+}
+
+.infos {
+    display: flex; 
+}
